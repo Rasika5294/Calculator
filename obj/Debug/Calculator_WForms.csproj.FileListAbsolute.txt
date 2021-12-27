@@ -1,0 +1,10 @@
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\bin\Debug\Calculator_WForms.exe.config
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\bin\Debug\Calculator_WForms.exe
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\bin\Debug\Calculator_WForms.pdb
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\obj\Debug\Calculator_WForms.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\obj\Debug\Calculator_WForms.Form1.resources
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\obj\Debug\Calculator_WForms.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\obj\Debug\Calculator_WForms.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\obj\Debug\Calculator_WForms.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\obj\Debug\Calculator_WForms.exe
+C:\Users\USER\OneDrive\Desktop\rasika\Calculator_WForms\Calculator_WForms\obj\Debug\Calculator_WForms.pdb
